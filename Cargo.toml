@@ -1,0 +1,9 @@
+[package]
+name = "tea"
+version = "0.1.0"
+authors = ["Sunjay Varma <varma.sunjay@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+nom = "4.0"
+nom_locate = "0.3"
